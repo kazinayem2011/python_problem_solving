@@ -10,4 +10,4 @@ if __name__ == '__main__':
 
         result = stringConstruction(s)
 
-        print("Number of Unique String : ",str(result) + '\n')
+        print("Number of Unique Value: ",str(result) + '\n')
